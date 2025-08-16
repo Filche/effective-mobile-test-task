@@ -1,7 +1,7 @@
 package ru.filche.test.dto;
 
 import lombok.Data;
-import ru.filche.test.model.CardStatus;
+import ru.filche.test.entity.CardStatus;
 
 import java.math.BigDecimal;
 

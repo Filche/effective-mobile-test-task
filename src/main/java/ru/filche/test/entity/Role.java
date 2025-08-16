@@ -1,4 +1,4 @@
-package ru.filche.test.model;
+package ru.filche.test.entity;
 
 public enum Role {
     ADMIN, USER

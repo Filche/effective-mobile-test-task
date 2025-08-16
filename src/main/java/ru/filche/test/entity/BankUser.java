@@ -1,4 +1,4 @@
-package ru.filche.test.model;
+package ru.filche.test.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
